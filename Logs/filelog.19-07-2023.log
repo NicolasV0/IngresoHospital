@@ -1,0 +1,24 @@
+19-07-2023 09:31:38 DEBUG Login:31: DEBUG:: imprimiendo
+19-07-2023 09:31:38 DEBUG Login:77: DEBUG:: cargando imagenes login
+19-07-2023 09:31:47 DEBUG Login:100: DEBUG:: conectando base de datos
+19-07-2023 09:31:48 DEBUG Login:132: INFO:: datos incorrectos
+19-07-2023 09:31:52 DEBUG Login:149: warn:: complete campos
+19-07-2023 09:31:59 DEBUG Login:100: DEBUG:: conectando base de datos
+19-07-2023 09:31:59 DEBUG Login:132: INFO:: datos incorrectos
+19-07-2023 09:32:06 DEBUG Login:100: DEBUG:: conectando base de datos
+19-07-2023 09:46:47 DEBUG Login:31: DEBUG:: iniciando Login
+19-07-2023 09:46:47 DEBUG Login:77: DEBUG:: cargando imagenes login
+19-07-2023 09:46:52 DEBUG Login:100: DEBUG:: conectando base de datos
+19-07-2023 09:46:52 DEBUG Login:132: INFO:: datos incorrectos
+19-07-2023 09:46:54 DEBUG Login:149: warn:: complete campos
+19-07-2023 09:46:59 DEBUG Login:100: DEBUG:: conectando base de datos
+19-07-2023 09:46:59 DEBUG VentanaAdministrativo:26: DEBUG:: ventana administrativo
+19-07-2023 09:46:59 DEBUG VentanaAdministrativo:105: DEBUG:: conectando base de datos
+19-07-2023 09:47:00 DEBUG VentanaIngresoPaciente:36: DEBUG:: ventana ingreso paciente
+19-07-2023 09:47:02 DEBUG VentanaIngresoPaciente:250: WARN:: complete todos los datos
+19-07-2023 09:47:04 DEBUG VentanaIngresoPaciente:299: WARN:: complete todos los datos
+19-07-2023 09:47:17 DEBUG VentanaModificarPacientes:28: DEBUG:: ventana modificar paciente
+19-07-2023 09:47:17 DEBUG VentanaModificarPacientes:51: INFO:: conectando base datos
+19-07-2023 09:47:21 DEBUG VentanaModificarAtributosPaciente:38: DEBUG:: ventana modificar paciente
+19-07-2023 20:40:53 DEBUG Login:31: DEBUG:: iniciando Login
+19-07-2023 20:40:53 DEBUG Login:77: DEBUG:: cargando imagenes login
